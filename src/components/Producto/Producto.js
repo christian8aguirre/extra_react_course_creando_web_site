@@ -1,7 +1,7 @@
 import React,{Component} from 'react';
 import { Link } from 'react-router-dom'
 
-export default class Class extends Component {
+export default class Producto extends Component {
   // {const {nombre, imagen, precio, id } = this.props.informacion}
     render(){
       return (
